@@ -1,12 +1,3 @@
-/*
- * HwAccess.h
- *
- * Created: 03/25/2020 02:00:55 AM
- * Edited : 04/26/2020 02:35:06 PM
- * Edited : 12/18/2020 08:20:40 AM
- *  Author: Mahmo
- */ 
-
 
 #ifndef HWACCESS_H_
 #define HWACCESS_H_

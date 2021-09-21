@@ -1,10 +1,3 @@
-/*
- * Display.c
- *
- * Created: 7/22/2021 9:08:59 AM
- *  Author: ZeroX96
- * -2.2.0.295
- */ 
 
 #include "Display.h"
 

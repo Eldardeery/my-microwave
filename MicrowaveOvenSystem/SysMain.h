@@ -1,9 +1,3 @@
-/*
- * SysMain.h
- *
- * Created: 8/3/2021 11:22:48 AM
- *  Author: ZeroX96
- */ 
 
 
 #ifndef SYSMAIN_H_

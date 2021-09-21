@@ -1,9 +1,3 @@
-/*
- * Phone.h
- *
- * Created: 7/22/2021 9:04:13 AM
- *  Author: ZeroX96
- */ 
 
 
 #ifndef PHONE_H_

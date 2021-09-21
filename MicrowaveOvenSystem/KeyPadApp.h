@@ -1,9 +1,3 @@
-/*
- * KeyPadApp.h
- *
- * Created: 7/22/2021 9:04:31 AM
- *  Author: ZeroX96
- */ 
 
 
 #ifndef KEYPADAPP_H_

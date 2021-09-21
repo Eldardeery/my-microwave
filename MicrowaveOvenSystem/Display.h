@@ -1,9 +1,3 @@
-/*
- * Display.h
- *
- * Created: 7/22/2021 9:02:50 AM
- *  Author: ZeroX96
- */ 
 
 
 #ifndef DISPLAY_H_

@@ -1,9 +1,4 @@
-/*
- * Main.h
- *
- * Created: 7/14/2021 9:06:21 AM
- *  Author: ZeroX
- */ 
+
 #ifndef MAIN_H_
 #define MAIN_H_
 

@@ -1,9 +1,3 @@
-/*
- * Lamp.h
- *
- * Created: 7/22/2021 9:03:44 AM
- *  Author: ZeroX96
- */ 
 
 
 #ifndef LAMP_H_

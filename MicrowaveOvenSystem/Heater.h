@@ -1,10 +1,3 @@
-/*
- * Heater.h
- *
- * Created: 7/22/2021 9:03:19 AM
- *  Author: ZeroX96
- */ 
-
 
 #ifndef HEATER_H_
 #define HEATER_H_

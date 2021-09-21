@@ -1,9 +1,4 @@
-/*
- * WeightSensor.h
- *
- * Created: 7/22/2021 9:04:46 AM
- *  Author: ZeroX96
- */ 
+
 
 
 #ifndef WEIGHTSENSOR_H_

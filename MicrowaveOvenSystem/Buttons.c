@@ -1,10 +1,4 @@
-/*
- * Buttons.c
- *
- * Created: 7/22/2021 3:25:59 PM
- *  Author: ZeroX96
- */ 
-// 
+
 // /* SW voltage level */
 // #define BTN_PRESSED_LEVEL        (0)
 // #define BTN_RELEASED_LEVEL       (1)

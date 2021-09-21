@@ -1,9 +1,3 @@
-/*
- * Usart.h
- *
- *  Created on: Dec 24, 2020
- *      Author: Mahmoud Saad
- */
 
 #ifndef USART_H_
 #define USART_H_

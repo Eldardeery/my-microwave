@@ -1,9 +1,4 @@
-/*
- * MicrowaveOvenSystem.c
- *
- * Created: 7/14/2021 8:52:51 AM
- * Author : ZeroX
- */ 
+
 #include "MicroWave.h"
 #include "SysMain.h"
 

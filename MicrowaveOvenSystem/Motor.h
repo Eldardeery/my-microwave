@@ -1,9 +1,4 @@
-/*
- * Motor.h
- *
- * Created: 7/22/2021 9:03:59 AM
- *  Author: ZeroX96
- */ 
+
 
 
 #ifndef MOTOR_H_

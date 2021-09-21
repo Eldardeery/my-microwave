@@ -1,16 +1,4 @@
-/*
- * Usart.c
- *
- *  Created on: Dec 24, 2020
- *      Author: Mahmoud Saad
- */
 
-/*
- * originally was hal_USART.c and adopted to the new style and named Usart.c
- *
- * Created: 11/09/2018 20:59:27
- *  Author: Mahmoud
- */
 #include "Usart.h"
 
 static void (*TxcCb)(void);

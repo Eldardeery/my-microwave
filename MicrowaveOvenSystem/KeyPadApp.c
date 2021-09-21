@@ -1,9 +1,4 @@
-/*
- * KeyPadApp.c
- *
- * Created: 7/24/2021 12:51:21 AM
- *  Author: ZeroX96
- */ 
+
 #include "KeyPadApp.h"
 static KeypadT KeypadHandler;
 

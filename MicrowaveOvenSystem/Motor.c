@@ -1,9 +1,4 @@
-/*
- * Motor.c
- *
- * Created: 7/23/2021 10:36:35 AM
- *  Author: ZeroX96
- */ 
+
 #include "Motor.h"
 
 static MotorStateT MotorOneState;

@@ -1,10 +1,3 @@
-/*
- * Lcd.h
- *
- * Created: 3/20/2020 5:41:05 AM
- *  Author: Mahmo
- */ 
-
 
 #ifndef LCD_H_
 #define LCD_H_

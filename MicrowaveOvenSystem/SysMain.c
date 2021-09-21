@@ -1,9 +1,4 @@
-/*
- * SysMain.c
- *
- * Created: 8/3/2021 11:22:24 AM
- *  Author: ZeroX96
- */ 
+
 #include "SysMain.h"
 
 static SysStateT SystemState = SYSTEM_STOPPED;

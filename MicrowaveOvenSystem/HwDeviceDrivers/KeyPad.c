@@ -1,9 +1,4 @@
-/*
- * Keypad.c
- *
- * Created: 7/13/2021 6:09:47 AM
- *  Author: ZeroX
- */ 
+
 #include "Keypad.h"
 
 static void KeyPadStateUpdate(uint8_t ix, uint8_t jx);

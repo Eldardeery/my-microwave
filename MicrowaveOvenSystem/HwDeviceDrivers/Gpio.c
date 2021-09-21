@@ -1,10 +1,4 @@
-/*
- * Gpio.c
- *
- * Created: 3/20/2020 5:38:06 AM
- * Edited : 4/26/2020 2:42:15 PM
- *  Author: Mahmo
- */ 
+
 #include "Gpio.h"
 
 GpioRetT GpioInitPort(GpioBaseT Base,GpioStateT State){

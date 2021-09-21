@@ -1,9 +1,3 @@
-/*
- * Timer.h
- *
- * Created: 3/20/2020 5:39:26 AM
- *  Author: Mahmo
- */ 
 
 
 #ifndef TIMER_H_
